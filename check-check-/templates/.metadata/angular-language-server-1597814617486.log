@@ -1,0 +1,17 @@
+Info 0    [14:23:38.792] Format host information updated
+Info 1    [14:23:38.795] reload projects.
+Info 2    [14:23:38.796] Structure before ensureProjectForOpenFiles:
+Info 3    [14:23:38.796] Structure after ensureProjectForOpenFiles:
+Info 4    [14:23:38.796] Host file extension mappings updated
+Info 5    [14:23:38.851] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 6    [14:23:38.858] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/login.html :: No config files found.
+Info 7    [14:23:38.863] Loading global plugin @angular/language-service
+Info 8    [14:23:38.865] Enabling plugin @angular/language-service from candidate paths: C:/Users/HEEJU/Downloads/eclipse-jee-2019-06-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../..,C:\Users\HEEJU\Downloads\eclipse-jee-2019-06-R-win32-x86_64\eclipse\plugins\org.eclipse.wildwebdeveloper_0.5.2.201911072316\language-servers\node_modules\@angular\language-service
+Info 9    [14:23:38.865] Loading @angular/language-service from C:/Users/HEEJU/Downloads/eclipse-jee-2019-06-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to C:/Users/HEEJU/Downloads/eclipse-jee-2019-06-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node_modules)
+Info 10   [14:23:39.174] Plugin validation succeded
+Info 11   [14:23:39.184] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [14:23:42.230] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 3046ms
+Info 13   [14:23:42.230] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 14   [14:23:42.230] 	Files (7)
+
+Info 15   [14:23:42.230] -----------------------------------------------

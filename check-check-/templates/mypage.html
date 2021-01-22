@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>마이페이지</title>
+    <link rel="stylesheet" href="../static/mypage/css/mypage.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
+</head>
+
+
+<body>
+    <form action='/login/mypage' method='POST'>
+        <div class='info'>
+            <br />
+            <p style='font-size:0.8rem;'>
+            이름 : {{sname}}<br>
+            학번 : {{htmlid}}
+            </p>
+    </form>
+        
+    <form action='/login/mypage/faceregister' method='POST'>
+        <input class='registerbutton' type="submit" value="얼굴등록" />
+        </div>
+    </form>
+
+    <table class='rwd-table' width='100%' style='margin: auto; text-align: center'>
+
+        <th>수업</th>
+        <th>담당교수</th>
+        <th>1주차</th>
+        <th>2주차</th>
+        <th>3주차</th>
+        <th>4주차</th>
+        <th>5주차</th>
+        <th>6주차</th>
+        <th>7주차</th>
+        <th>8주차</th>
+        <th>9주차</th>
+        <th>10주차</th>
+        <th>11주차</th>
+        <th>12주차</th>
+        <th>13주차</th>
+        <th>14주차</th>
+        <th>15주차</th>
+        <tr>
+
+            {% for i in attendlist %}
+
+            {% if i =='/'%}
+        </tr>
+        <tr>
+            {% else %}
+            <td>{{i}}</td>
+            {% endif %}
+            {% endfor %}
+
+
+
+    </table>
+
+</body>
+</html>

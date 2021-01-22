@@ -1,0 +1,417 @@
+Info 0    [14:23:41.833] Format host information updated
+Info 1    [14:23:41.837] reload projects.
+Info 2    [14:23:41.837] Structure before ensureProjectForOpenFiles:
+Info 3    [14:23:41.837] Structure after ensureProjectForOpenFiles:
+Info 4    [14:23:41.837] Host file extension mappings updated
+Info 5    [14:23:41.905] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 6    [14:23:41.909] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/main_prof.html :: No config files found.
+Info 7    [14:23:41.913] Loading global plugin @angular/language-service
+Info 8    [14:23:41.964] Enabling plugin @angular/language-service from candidate paths: C:/Users/HEEJU/Downloads/eclipse-jee-2019-06-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../..,C:\Users\HEEJU\Downloads\eclipse-jee-2019-06-R-win32-x86_64\eclipse\plugins\org.eclipse.wildwebdeveloper_0.5.2.201911072316\language-servers\node_modules\@angular\language-service
+Info 9    [14:23:41.965] Loading @angular/language-service from C:/Users/HEEJU/Downloads/eclipse-jee-2019-06-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to C:/Users/HEEJU/Downloads/eclipse-jee-2019-06-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node_modules)
+Info 10   [14:23:42.396] Plugin validation succeded
+Info 11   [14:23:42.416] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [14:23:44.141] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1724ms
+Info 13   [14:23:44.142] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 14   [14:23:44.142] 	Files (7)
+
+Info 15   [14:23:44.142] -----------------------------------------------
+Info 16   [14:23:44.144] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 17   [14:23:44.144] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/main.html :: No config files found.
+Info 18   [14:23:44.145] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [14:23:44.177] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 32ms
+Info 20   [14:23:44.177] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 21   [14:23:44.177] 	Files (8)
+
+Info 22   [14:23:44.177] -----------------------------------------------
+Info 23   [14:23:44.179] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 24   [14:23:44.179] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 25   [14:23:44.180] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 26   [14:23:44.198] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true Elapsed: 18ms
+Info 27   [14:23:44.198] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 28   [14:23:44.198] 	Files (9)
+
+Info 29   [14:23:44.198] -----------------------------------------------
+Info 30   [14:23:56.893] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 31   [14:23:56.893] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 32   [14:23:56.893] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 33   [14:23:56.930] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false Elapsed: 37ms
+Info 34   [14:23:56.930] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 35   [14:23:56.930] 	Files (9)
+
+Info 36   [14:23:56.930] -----------------------------------------------
+Info 37   [14:23:57.373] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 38   [14:23:57.374] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 39   [14:23:57.375] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 40   [14:23:57.425] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 50ms
+Info 41   [14:23:57.425] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 42   [14:23:57.426] 	Files (9)
+
+Info 43   [14:23:57.426] -----------------------------------------------
+Info 44   [14:23:57.426] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 45   [14:23:57.427] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 46   [14:23:57.427] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 47   [14:23:57.450] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 23ms
+Info 48   [14:23:57.450] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 49   [14:23:57.450] 	Files (9)
+
+Info 50   [14:23:57.450] -----------------------------------------------
+Info 51   [14:23:57.451] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 52   [14:23:57.451] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 53   [14:23:57.451] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 54   [14:23:57.468] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false Elapsed: 17ms
+Info 55   [14:23:57.468] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 56   [14:23:57.468] 	Files (9)
+
+Info 57   [14:23:57.468] -----------------------------------------------
+Info 58   [14:23:57.469] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 59   [14:23:57.469] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 60   [14:23:57.469] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 61   [14:23:57.486] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false Elapsed: 17ms
+Info 62   [14:23:57.486] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 63   [14:23:57.486] 	Files (9)
+
+Info 64   [14:23:57.486] -----------------------------------------------
+Info 65   [14:23:57.496] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 66   [14:23:57.497] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 67   [14:23:57.497] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 68   [14:23:57.515] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false Elapsed: 18ms
+Info 69   [14:23:57.515] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 70   [14:23:57.515] 	Files (9)
+
+Info 71   [14:23:57.515] -----------------------------------------------
+Info 72   [14:23:57.530] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 73   [14:23:57.531] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 74   [14:23:57.531] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 75   [14:23:57.546] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false Elapsed: 15ms
+Info 76   [14:23:57.546] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 77   [14:23:57.546] 	Files (9)
+
+Info 78   [14:23:57.547] -----------------------------------------------
+Info 79   [14:23:57.563] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 80   [14:23:57.563] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 81   [14:23:57.564] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 82   [14:23:57.581] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false Elapsed: 17ms
+Info 83   [14:23:57.581] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 84   [14:23:57.581] 	Files (9)
+
+Info 85   [14:23:57.581] -----------------------------------------------
+Info 86   [14:23:57.595] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 87   [14:23:57.595] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 88   [14:23:57.595] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 89   [14:23:57.605] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false Elapsed: 10ms
+Info 90   [14:23:57.605] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 91   [14:23:57.605] 	Files (9)
+
+Info 92   [14:23:57.605] -----------------------------------------------
+Info 93   [14:23:57.627] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 94   [14:23:57.628] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 95   [14:23:57.628] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 96   [14:23:57.660] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false Elapsed: 32ms
+Info 97   [14:23:57.660] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 98   [14:23:57.660] 	Files (9)
+
+Info 99   [14:23:57.660] -----------------------------------------------
+Info 100  [14:23:57.662] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 101  [14:23:57.662] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 102  [14:23:57.662] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 103  [14:23:57.683] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: false Elapsed: 21ms
+Info 104  [14:23:57.683] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 105  [14:23:57.683] 	Files (9)
+
+Info 106  [14:23:57.683] -----------------------------------------------
+Info 107  [14:23:57.693] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 108  [14:23:57.693] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 109  [14:23:57.693] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 110  [14:23:57.713] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false Elapsed: 20ms
+Info 111  [14:23:57.713] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 112  [14:23:57.713] 	Files (9)
+
+Info 113  [14:23:57.713] -----------------------------------------------
+Info 114  [14:23:57.750] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 115  [14:23:57.750] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 116  [14:23:57.750] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 117  [14:23:57.766] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 16 structureChanged: false Elapsed: 16ms
+Info 118  [14:23:57.766] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 119  [14:23:57.766] 	Files (9)
+
+Info 120  [14:23:57.766] -----------------------------------------------
+Info 121  [14:23:57.766] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 122  [14:23:57.767] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 123  [14:23:57.767] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 124  [14:23:57.778] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 17 structureChanged: false Elapsed: 11ms
+Info 125  [14:23:57.779] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 126  [14:23:57.779] 	Files (9)
+
+Info 127  [14:23:57.779] -----------------------------------------------
+Info 128  [14:23:57.789] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 129  [14:23:57.789] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 130  [14:23:57.789] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 131  [14:23:57.800] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 18 structureChanged: false Elapsed: 11ms
+Info 132  [14:23:57.800] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 133  [14:23:57.800] 	Files (9)
+
+Info 134  [14:23:57.800] -----------------------------------------------
+Info 135  [14:23:57.824] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 136  [14:23:57.825] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 137  [14:23:57.825] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 138  [14:23:57.843] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 19 structureChanged: false Elapsed: 18ms
+Info 139  [14:23:57.843] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 140  [14:23:57.843] 	Files (9)
+
+Info 141  [14:23:57.843] -----------------------------------------------
+Info 142  [14:23:57.856] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 143  [14:23:57.856] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 144  [14:23:57.856] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 145  [14:23:57.876] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 20 structureChanged: false Elapsed: 19ms
+Info 146  [14:23:57.876] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 147  [14:23:57.876] 	Files (9)
+
+Info 148  [14:23:57.876] -----------------------------------------------
+Info 149  [14:23:57.890] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 150  [14:23:57.890] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 151  [14:23:57.890] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 152  [14:23:57.910] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 21 structureChanged: false Elapsed: 20ms
+Info 153  [14:23:57.910] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 154  [14:23:57.910] 	Files (9)
+
+Info 155  [14:23:57.910] -----------------------------------------------
+Info 156  [14:23:57.921] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 157  [14:23:57.921] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 158  [14:23:57.922] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 159  [14:23:57.940] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 22 structureChanged: false Elapsed: 18ms
+Info 160  [14:23:57.940] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 161  [14:23:57.940] 	Files (9)
+
+Info 162  [14:23:57.940] -----------------------------------------------
+Info 163  [14:23:57.978] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 164  [14:23:57.979] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 165  [14:23:57.979] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 166  [14:23:57.995] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 23 structureChanged: false Elapsed: 16ms
+Info 167  [14:23:57.995] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 168  [14:23:57.995] 	Files (9)
+
+Info 169  [14:23:57.995] -----------------------------------------------
+Info 170  [14:23:57.996] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 171  [14:23:57.996] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 172  [14:23:57.996] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 173  [14:23:58.11] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 24 structureChanged: false Elapsed: 15ms
+Info 174  [14:23:58.11] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 175  [14:23:58.11] 	Files (9)
+
+Info 176  [14:23:58.11] -----------------------------------------------
+Info 177  [14:23:58.18] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 178  [14:23:58.18] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 179  [14:23:58.18] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 180  [14:23:58.38] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 25 structureChanged: false Elapsed: 19ms
+Info 181  [14:23:58.38] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 182  [14:23:58.38] 	Files (9)
+
+Info 183  [14:23:58.38] -----------------------------------------------
+Info 184  [14:23:58.52] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 185  [14:23:58.52] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 186  [14:23:58.52] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 187  [14:23:58.69] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 26 structureChanged: false Elapsed: 17ms
+Info 188  [14:23:58.69] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 189  [14:23:58.69] 	Files (9)
+
+Info 190  [14:23:58.69] -----------------------------------------------
+Info 191  [14:23:58.144] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 192  [14:23:58.144] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 193  [14:23:58.144] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 194  [14:23:58.152] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 27 structureChanged: false Elapsed: 8ms
+Info 195  [14:23:58.153] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 196  [14:23:58.153] 	Files (9)
+
+Info 197  [14:23:58.153] -----------------------------------------------
+Info 198  [14:23:58.153] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 199  [14:23:58.154] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 200  [14:23:58.154] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 201  [14:23:58.162] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 28 structureChanged: false Elapsed: 8ms
+Info 202  [14:23:58.162] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 203  [14:23:58.162] 	Files (9)
+
+Info 204  [14:23:58.162] -----------------------------------------------
+Info 205  [14:23:58.183] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 206  [14:23:58.183] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 207  [14:23:58.183] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 208  [14:23:58.195] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 29 structureChanged: false Elapsed: 12ms
+Info 209  [14:23:58.195] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 210  [14:23:58.195] 	Files (9)
+
+Info 211  [14:23:58.196] -----------------------------------------------
+Info 212  [14:23:58.216] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 213  [14:23:58.216] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 214  [14:23:58.216] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 215  [14:23:58.231] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 30 structureChanged: false Elapsed: 15ms
+Info 216  [14:23:58.231] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 217  [14:23:58.231] 	Files (9)
+
+Info 218  [14:23:58.231] -----------------------------------------------
+Info 219  [14:23:58.248] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 220  [14:23:58.248] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 221  [14:23:58.248] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 222  [14:23:58.263] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 31 structureChanged: false Elapsed: 15ms
+Info 223  [14:23:58.263] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 224  [14:23:58.263] 	Files (9)
+
+Info 225  [14:23:58.264] -----------------------------------------------
+Info 226  [14:23:58.279] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 227  [14:23:58.280] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 228  [14:23:58.280] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 229  [14:23:58.294] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 32 structureChanged: false Elapsed: 14ms
+Info 230  [14:23:58.295] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 231  [14:23:58.295] 	Files (9)
+
+Info 232  [14:23:58.295] -----------------------------------------------
+Info 233  [14:23:58.315] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 234  [14:23:58.315] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 235  [14:23:58.315] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 236  [14:23:58.326] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 33 structureChanged: false Elapsed: 11ms
+Info 237  [14:23:58.326] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 238  [14:23:58.326] 	Files (9)
+
+Info 239  [14:23:58.326] -----------------------------------------------
+Info 240  [14:23:58.347] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 241  [14:23:58.347] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 242  [14:23:58.347] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 243  [14:23:58.358] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 34 structureChanged: false Elapsed: 11ms
+Info 244  [14:23:58.358] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 245  [14:23:58.358] 	Files (9)
+
+Info 246  [14:23:58.358] -----------------------------------------------
+Info 247  [14:23:58.376] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 248  [14:23:58.376] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 249  [14:23:58.376] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 250  [14:23:58.388] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 35 structureChanged: false Elapsed: 12ms
+Info 251  [14:23:58.388] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 252  [14:23:58.389] 	Files (9)
+
+Info 253  [14:23:58.389] -----------------------------------------------
+Info 254  [14:23:58.411] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 255  [14:23:58.411] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 256  [14:23:58.412] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 257  [14:23:58.425] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 36 structureChanged: false Elapsed: 13ms
+Info 258  [14:23:58.425] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 259  [14:23:58.425] 	Files (9)
+
+Info 260  [14:23:58.425] -----------------------------------------------
+Info 261  [14:23:58.443] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 262  [14:23:58.443] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 263  [14:23:58.443] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 264  [14:23:58.458] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 37 structureChanged: false Elapsed: 15ms
+Info 265  [14:23:58.458] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 266  [14:23:58.458] 	Files (9)
+
+Info 267  [14:23:58.458] -----------------------------------------------
+Info 268  [14:23:58.476] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 269  [14:23:58.476] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 270  [14:23:58.476] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 271  [14:23:58.493] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 38 structureChanged: false Elapsed: 17ms
+Info 272  [14:23:58.493] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 273  [14:23:58.493] 	Files (9)
+
+Info 274  [14:23:58.493] -----------------------------------------------
+Info 275  [14:23:58.508] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 276  [14:23:58.508] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 277  [14:23:58.508] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 278  [14:23:58.521] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 39 structureChanged: false Elapsed: 13ms
+Info 279  [14:23:58.521] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 280  [14:23:58.521] 	Files (9)
+
+Info 281  [14:23:58.521] -----------------------------------------------
+Info 282  [14:23:58.541] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 283  [14:23:58.541] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 284  [14:23:58.541] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 285  [14:23:58.557] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 40 structureChanged: false Elapsed: 16ms
+Info 286  [14:23:58.557] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 287  [14:23:58.557] 	Files (9)
+
+Info 288  [14:23:58.557] -----------------------------------------------
+Info 289  [14:23:58.576] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 290  [14:23:58.576] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 291  [14:23:58.576] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 292  [14:23:58.593] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 41 structureChanged: false Elapsed: 17ms
+Info 293  [14:23:58.593] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 294  [14:23:58.594] 	Files (9)
+
+Info 295  [14:23:58.594] -----------------------------------------------
+Info 296  [14:23:58.606] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 297  [14:23:58.606] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 298  [14:23:58.606] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 299  [14:23:58.623] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 42 structureChanged: false Elapsed: 16ms
+Info 300  [14:23:58.624] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 301  [14:23:58.624] 	Files (9)
+
+Info 302  [14:23:58.624] -----------------------------------------------
+Info 303  [14:23:58.639] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 304  [14:23:58.639] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 305  [14:23:58.639] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 306  [14:23:58.654] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 43 structureChanged: false Elapsed: 15ms
+Info 307  [14:23:58.654] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 308  [14:23:58.655] 	Files (9)
+
+Info 309  [14:23:58.655] -----------------------------------------------
+Info 310  [14:23:58.673] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 311  [14:23:58.673] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 312  [14:23:58.673] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 313  [14:23:58.689] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 44 structureChanged: false Elapsed: 16ms
+Info 314  [14:23:58.690] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 315  [14:23:58.690] 	Files (9)
+
+Info 316  [14:23:58.690] -----------------------------------------------
+Info 317  [14:23:58.705] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 318  [14:23:58.705] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 319  [14:23:58.705] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 320  [14:23:58.718] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 45 structureChanged: false Elapsed: 13ms
+Info 321  [14:23:58.718] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 322  [14:23:58.718] 	Files (9)
+
+Info 323  [14:23:58.718] -----------------------------------------------
+Info 324  [14:23:58.861] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 325  [14:23:58.862] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 326  [14:23:58.862] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 327  [14:23:58.888] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 46 structureChanged: false Elapsed: 26ms
+Info 328  [14:23:58.889] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 329  [14:23:58.889] 	Files (9)
+
+Info 330  [14:23:58.889] -----------------------------------------------
+Info 331  [14:23:59.10] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 332  [14:23:59.10] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 333  [14:23:59.10] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 334  [14:23:59.32] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 47 structureChanged: false Elapsed: 22ms
+Info 335  [14:23:59.32] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 336  [14:23:59.32] 	Files (9)
+
+Info 337  [14:23:59.32] -----------------------------------------------
+Info 338  [14:23:59.177] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 339  [14:23:59.177] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 340  [14:23:59.177] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 341  [14:23:59.203] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 48 structureChanged: false Elapsed: 25ms
+Info 342  [14:23:59.203] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 343  [14:23:59.203] 	Files (9)
+
+Info 344  [14:23:59.203] -----------------------------------------------
+Info 345  [14:23:59.334] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 346  [14:23:59.334] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 347  [14:23:59.334] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 348  [14:23:59.364] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 49 structureChanged: false Elapsed: 29ms
+Info 349  [14:23:59.364] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 350  [14:23:59.364] 	Files (9)
+
+Info 351  [14:23:59.364] -----------------------------------------------
+Info 352  [14:23:59.485] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 353  [14:23:59.485] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 354  [14:23:59.485] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 355  [14:23:59.512] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 50 structureChanged: false Elapsed: 26ms
+Info 356  [14:23:59.512] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 357  [14:23:59.512] 	Files (9)
+
+Info 358  [14:23:59.512] -----------------------------------------------
+Info 359  [14:24:3.337] Search path: c:/Users/HEEJU/flask_test_0816/flask_test/templates
+Info 360  [14:24:3.338] For info: c:/Users/HEEJU/flask_test_0816/flask_test/templates/mypage.html :: No config files found.
+Info 361  [14:24:3.338] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 362  [14:24:3.354] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 51 structureChanged: false Elapsed: 16ms
+Info 363  [14:24:3.354] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 364  [14:24:3.354] 	Files (9)
+
+Info 365  [14:24:3.355] -----------------------------------------------

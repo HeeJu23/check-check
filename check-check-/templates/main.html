@@ -1,0 +1,173 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>메인페이지</title>
+
+
+    <script>
+        var ClassList = [['{{clist[0][0]}}', '{{clist[0][1]}}', '{{clist[0][2]}}', '{{clist[0][3]}}', '{{clist[0][4]}}','{{clist[0][5]}}'],
+            ['{{clist[1][0]}}', '{{clist[1][1]}}', '{{clist[1][2]}}', '{{clist[1][3]}}', '{{clist[1][4]}}','{{clist[1][5]}}'],
+            ['{{clist[2][0]}}', '{{clist[2][1]}}', '{{clist[2][2]}}', '{{clist[2][3]}}', '{{clist[2][4]}}','{{clist[2][5]}}'],
+              ['{{clist[3][0]}}', '{{clist[3][1]}}', '{{clist[3][2]}}', '{{clist[3][3]}}', '{{clist[3][4]}}','{{clist[3][5]}}'],
+              ['{{clist[4][0]}}', '{{clist[4][1]}}', '{{clist[4][2]}}', '{{clist[4][3]}}', '{{clist[4][4]}}','{{clist[4][5]}}'],
+              ['{{clist[5][0]}}', '{{clist[5][1]}}', '{{clist[5][2]}}', '{{clist[5][3]}}', '{{clist[5][4]}}','{{clist[5][5]}}']
+        ];
+
+        document.write("<div class='mainlogo'>");
+
+        document.write("</div>");
+
+        document.write("<div class='info'>");
+        document.write("{{htmlid}} <p style='font-size:0.7rem;'>님 환영합니다</p>");
+        document.write("</br>");
+
+        document.write("<form action='/login/mypage' method='POST'>");
+        document.write("<input class='mypagebutton' type='submit' value ='마이페이지' />");
+        document.write("</form>");
+        document.write("</div>");
+
+        document.write("<div>");
+        document.write("</br>");
+        document.write("</br>");
+
+        document.write("<table class='rwd-table' id='table'  width='100%' style='margin: auto; text-align: center'>");
+
+
+        document.write("<th>강의코드</th>");
+        document.write("<th>강의명</th>");
+        document.write("<th>담당교수</th>");
+        document.write("<th>요  일</th>");
+        document.write("<th>시  작 </th>");
+        document.write("<th>종  료 </th>");
+        document.write("<th>출  석</th>");
+        document.write("<th>입  장 </th>");
+
+
+      //수업 리스트 1
+           document.write("<tr>");
+           for(j=0; j< 6;j++){
+              document.write("<td>");
+                document.write(ClassList[0][j]);
+
+                document.write("</td>");
+           }
+        document.write("<td>");
+          document.write("<form action='/login/facecheck0', method='POST'>");
+            document.write("<input class ='checkbutton' href='#' type='submit' value='출석' /> {{check0}}");
+        document.write("</form>");
+          document.write("</td>");
+            document.write("<td>");
+          document.write("<form action='/login/enter', method='post'>");
+          document.write("<button class ='enterbutton' href='#' name='enterBtn' type='submit'>입장</button>");
+            document.write("</form>");
+            document.write("</td>");
+            document.write("</tr>");
+          //수업 리스트 2
+            document.write("<tr>");
+           for(j=0; j< 6;j++){
+              document.write("<td>");
+                document.write(ClassList[1][j]);
+
+                document.write("</td>");
+           }
+           document.write("<td>");
+          document.write("<form action='/login/facecheck1', method='POST'>");
+            document.write("<input class ='checkbutton' href='#' type='submit' value='출석' />  {{check1}}");
+            document.write("</form>");
+          document.write("</td>");
+            document.write("<td>");
+          document.write("<form action='/login/enter', method='post'>");
+          document.write("<button class ='enterbutton' href='#' name='enterBtn' type='submit'>입장</button>");
+            document.write("</form>");
+            document.write("</td>");
+            document.write("</tr>");
+          //수업 리스트 3
+            document.write("<tr>");
+           for(j=0; j< 6;j++){
+              document.write("<td>");
+                document.write(ClassList[2][j]);
+
+                document.write("</td>");
+           }
+           document.write("<td>");
+          document.write("<form action='/login/facecheck2', method='POST'>");
+            document.write("<input class ='checkbutton' href='#' type='submit' value='출석' />  {{check2}}");
+            document.write("</form>");
+          document.write("</td>");
+            document.write("<td>");
+          document.write("<form action='/login/enter', method='post'>");
+          document.write("<button class ='enterbutton' href='#' name='enterBtn' type='submit'>입장</button>");
+            document.write("</form>");
+            document.write("</td>");
+            document.write("</tr>");
+          //수업 리스트 4
+            document.write("<tr>");
+           for(j=0; j< 6;j++){
+              document.write("<td>");
+                document.write(ClassList[3][j]);
+
+                document.write("</td>");
+           }
+           document.write("<td>");
+          document.write("<form action='/login/facecheck3', method='POST'>");
+            document.write("<input class ='checkbutton' href='#' type='submit' value='출석' />  {{check3}}");
+            document.write("</form>");
+          document.write("</td>");
+            document.write("<td>");
+          document.write("<form action='/login/enter', method='post'>");
+          document.write("<button class ='enterbutton' href='#' name='enterBtn' type='submit'>입장</button>");
+            document.write("</form>");
+            document.write("</td>");
+            document.write("</tr>");
+          //수업 리스트 5
+            document.write("<tr>");
+           for(j=0; j< 6;j++){
+              document.write("<td>");
+                document.write(ClassList[4][j]);
+
+                document.write("</td>");
+           }
+           document.write("<td>");
+          document.write("<form action='/login/facecheck4', method='POST'>");
+            document.write("<input class ='checkbutton' href='#' type='submit' value='출석' />  {{check4}}");
+            document.write("</form>");
+          document.write("</td>");
+            document.write("<td>");
+          document.write("<form action='/login/enter', method='post'>");
+          document.write("<button class ='enterbutton' href='#' name='enterBtn' type='submit'>입장</button>");
+            document.write("</form>");
+            document.write("</td>");
+            document.write("</tr>");
+          //수업 리스트 6
+            document.write("<tr>");
+           for(j=0; j< 6;j++){
+              document.write("<td>");
+                document.write(ClassList[5][j]);
+
+                document.write("</td>");
+           }
+           document.write("<td>");
+          document.write("<form action='/login/facecheck5', method='POST'>");
+            document.write("<input class ='checkbutton' href='#' type='submit' value='출석' />  {{check5}}");
+            document.write("</form>");
+          document.write("</td>");
+            document.write("<td>");
+          document.write("<form action='/login/enter', method='post'>");
+          document.write("<button class ='enterbutton' href='#' name='enterBtn' type='submit'>입장</button>");
+            document.write("</form>");
+            document.write("</td>");
+            document.write("</tr>");
+
+        document.write("</table>");
+        document.write("</div>");
+
+    </script>
+    <link rel="stylesheet" href="../static/main/css/mainstudentpage.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>메인페이지</title>
+    <link rel="stylesheet" href="../static/main_prof/css/mainprofessorpage.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <form action='/login/main' method='POST'>
+    <div id='mainlogo'>
+
+    </div>
+    <br />
+    <div class="info">
+    {{htmlid}}<p style='font-size:0.7rem;'>님 환영합니다</p>
+    <br />
+    </form>
+    
+    <form action='/login/main_prof/attendance' , method='POST'>
+    <input class ='attendcheckbutton' type='submit'  value='출결' />
+    </form>
+    </div>
+    <br />
+    <div>
+    <br>
+    <table id='table' class='rwd-table' width='100%' style='margin: auto; text-align: center'>
+        <th>강의코드</th>
+        <th>강의명</th>
+        <th>요일</th>
+        <th>시작 </th>
+        <th>종료 </th>
+        <th>입장 </th>
+        {% for cid, cname, cday, cstart, cend in clist %}
+        <tr>
+            <td>{{cid}}</td>
+            <td>{{cname}}</td>
+            <td>{{cday}}</td>
+            <td>{{cstart}}</td>
+            <td>{{cend}}</td>
+            <td>
+                <form action='login/main_prof/enter' , method='post'>
+                    <button class='enterbutton' href='#' name='enterBtn' type='submit'>강의시작</button>
+                </form>
+            </td>
+        </tr>
+        {% endfor %}
+
+    </table>
+    </div>
+
+</body>
+</html>
