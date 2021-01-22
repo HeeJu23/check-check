@@ -7,4 +7,5 @@
 [Youtube url](https://youtu.be/0cRU8s9MtRU)
 ## 프로젝트 기여도
 참여인원 : 2명
+
 본인의 기여도 : 50%
