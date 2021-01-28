@@ -9,9 +9,11 @@
 3. 온라인 화상강의 기능
 ## 개발환경
 - Python3 - OpenCV, Flask
-- Nodejs
+- JavaScript - Nodejs
 - WebRTC
 - MySQL
+- HTML5
+- CSS3
 
 ## 발표영상
 [Youtube url](https://youtu.be/0cRU8s9MtRU)
